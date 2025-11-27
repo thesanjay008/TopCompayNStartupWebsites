@@ -1,8 +1,7 @@
 <div id="top"></div>
 
-<div align="center"> <h1>Top Company & Startup Websites to Job Opportunities</h1>  
-This Repository contains the list of companies & Startup which you can join for your career in 2024!  
-    
+<div align="center"> <h1>Top Company & Startup Websites in India 2026</h1>  
+<p>This Repository contains the list of companies & Startup which you can join for your career in 2026!</p>
 <p><br></p>  
     
 
@@ -11,10 +10,7 @@ This Repository contains the list of companies & Startup which you can join for 
 <a href="https://github.com/thesanjay008/TopCompayNStartupWebsites/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kaustubh-Natuskar/companies-to-apply?color=2b9348"></a></p>
 </div>
 
-
- 
 <br>
-
 
 <div align="center">
    <table>
