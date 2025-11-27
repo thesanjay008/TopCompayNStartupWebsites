@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align="center"> <h1>Top Company & Startup Websites in India 2026</h1>  
-<p>This Repository contains the list of companies & Startup which you can join for your career in 2026!</p>
+<p>This Repository contains the list of companies & startups that you can join for your career in 2026.</p>
 <p><br></p>  
     
 
@@ -154,6 +154,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="B">B</h2>  
 
 <ol>
+<li><a href="https://bricksnblocks.co.in">Bricks N Blocks</a></li>
 <li><a href="https://home.barclays/careers/">Barclays</a></li>
 <li><a href="https://www.bain.com/careers/">Bain &amp; Co</a></li>
 <li><a href="https://www.barcindia.co.in/life-at-barc">BARC India</a></li>
@@ -395,6 +396,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="I">I</h2>  
 
 <ol>
+<li><a href="https://invc.co.in">INVC</a></li>
 <li><a href="https://www.5ire.org/carreer-blockchain">5ire</a></li>
 <li><a href="https://www.iac.com/join-team">IAC</a></li>
 <li><a href="https://www.ibm.com/in-en/employment/">IBM</a></li>
@@ -455,7 +457,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="L">L</h2>   
 
 <ol>
-<li><a href="https://www.lambdatest.com/career">LambdaTest</a>  </li>
+<li><a href="https://labkart.co.in">Labkart</a></li>
 <li><a href="https://www.lamresearch.com/careers/careers-overview/">Lam Research</a>   </li>
 <li><a href="https://www.jaguarlandrovercareers.com/">Land rover</a>  </li>
 <li><a href="https://hiring.lenskart.com/">Lenskart</a></li>
@@ -553,6 +555,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="P">P</h2>  
 
 <ol>
+<li><a href="https://premiumplaces.in">Premium Places</a></li>
 <li><a href="https://jobs.paloaltonetworks.com/en/">Palo Alto Networks</a></li>
 <li><a href="https://parkplus.io/we-are-hiring#hiring">Park+</a>  </li>
 <li><a href="https://www.paypal.com/in/webapps/mpp/jobs">Paypal</a>  </li>
@@ -649,6 +652,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="T">T</h2>  
 
 <ol>
+<li><a href="https://top10products.online">Category-Wise Top 10 Products</a></li>
 <li><a href="https://corporate.target.com/careers">Target</a>  </li>
 <li><a href="https://www.tataadvancedsystems.com/careers.php">TATA Advanced Sysytems Ltd</a></li>
 <li><a href="https://www.tatanexarc.com/careers/">TATA nexarc</a>      </li>
